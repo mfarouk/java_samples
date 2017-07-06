@@ -1,0 +1,9 @@
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/model/User.java
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/util/CustomErrorType.java
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/SpringBootCRUDApp.java
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/RestApiController.java
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserService.java
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/AppController.java
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/configuration/JpaConfiguration.java
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserServiceImpl.java
+/Users/farouk/dev/wheelsup/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/repositories/UserRepository.java
